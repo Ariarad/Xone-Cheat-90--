@@ -43,3 +43,5 @@ if anythings outdated give help from [hazedumper](https://github.com/frk1/hazedu
 [cpp junks to make cheat undetected](https://hjmcoder.com/junkcpp/generate)
 
 After Compile Inject in Game and Press Insert to bring up the menu.Enjoy!
+
+Give Star if helped.
