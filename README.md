@@ -11,6 +11,7 @@ i don't want to use cheats at all so i published this source here .
     * **FovBase**
     * **TriggerBot**
     * **RCR**
+    * **Jump Smoke and Flash Check**
     * **Bind on key and ...**
 * WallHack (
     * **Full + Preview**
