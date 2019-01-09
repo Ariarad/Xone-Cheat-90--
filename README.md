@@ -1,5 +1,5 @@
 # Xone Cheat
-one of the best legit cheats for csgo i used about 1 week .
+One of the best legit cheats for csgo i used about 1 week .
 i don't want to use cheats at all so i published this source here .
 # SS :
 ![](https://hjmcoder.com/xone.png)
@@ -30,9 +30,9 @@ i don't want to use cheats at all so i published this source here .
     * **AntiFlash**
     * **FreeCam and ...**
 * Config
-* **Create**
-* **Save**
-* **Load**
+    * **Create**
+    * **Save**
+    * **Load**
 * Radar and GranadeHelper too!
 i think its everything you want ,add some junk in end of cpp files !
 
