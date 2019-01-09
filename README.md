@@ -1,5 +1,5 @@
 # Xone Cheat
-One of the best legit cheats for csgo i used about 1 week .
+One of the best legit cheats for csgo i used about 1 week . 90% Fixed by Myself . no crash !
 i don't want to use cheats at all so i published this source here .
 # SS :
 ![](https://hjmcoder.com/xone.png)
