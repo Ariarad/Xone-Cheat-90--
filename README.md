@@ -3,7 +3,7 @@ one of the best legit cheats for csgo i used about 1 week .
 i don't want to use cheats at all so i published this source here .
 # SS :
 ![](https://hjmcoder.com/xone.png)
-its not a HVH and a rage cheat
+
 # featurs 
 
 * Aim 
